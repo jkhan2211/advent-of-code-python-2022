@@ -1,0 +1,39 @@
+Rock defeats Scissors
+Scissors defeats Paper
+Paper defeats Rock
+Same shape draw
+
+opp
+A= Rock
+B= Paper
+C= Scissors
+
+me
+X= Rock
+Y= Paper
+Z= Scissors
+
+1 Rock 2 Paper 3 Scissors + Score of Round(0 - lost 3 - draw 6 won)
+
+A Y
+B X
+C Z
+
+Test: 
+Rock(1) - Paper(2)- Paper(2) + 6 = 8 
+Paper(2) - Rock(1) - Paper(2) + 0 = 1
+Scissors(3) - Scissors(3) - Draw(3) = 3+3 = 6
+
+Count my Score
+
+
+Test Case(1): 
+
+B Z (2) - (3) = (3 + 6) = 9
+A Z (1) - (3) = (3 + 0) = 3
+B Z (2) - (3) = (3 + 6) = 9
+C Z (3) - (3) = (3 + 3) = 6
+C Z (3) - (3) = (3 + 3) = 6
+B X (2) - (1) = (3 + 0) = 3
+
+Total = 36
