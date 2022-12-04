@@ -1,0 +1,7 @@
+xYzAW fdsrw
+
+1. divide the compartment based on size (Equal length)
+2. lower case each compartment
+3. compare from both list
+4. put the matching letter in a list
+5. calculate sum
